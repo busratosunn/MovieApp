@@ -58,15 +58,19 @@ git clone https://github.com/busratosunn/MovieApp
   <img src="ScreenShots/Launch.png" alt="Launch Ekranı" width="234" height="506" />
   
   ### 🏠 Ana Sayfa
-  <table>
-  <tr>
-  <td><img src="ScreenShots/Anasayfa1.png" alt="Anasayfa 1" width="234" height="506" /></td>
-  <td><img src="ScreenShots/Anasayfa2.png" alt="Anasayfa 2" width="234" height="506" /></td>
-  <td><img src="ScreenShots/Anasayfa3.png" alt="Anasayfa 3" width="234" height="506" /></td>
-  <td><img src="ScreenShots/Anasayfa4.png" alt="Anasayfa 4" width="234" height="506" /></td>
-  <td><img src="ScreenShots/Anasayfa5.png" alt="Anasayfa 5" width="234" height="506" /></td>
-  </tr>
-  </table>
+  <img src="ScreenShots/Anasayfa1.png" width="234"/>
+<br/>
+
+<img src="ScreenShots/Anasayfa2.png" width="234"/>
+<br/>
+
+<img src="ScreenShots/Anasayfa3.png" width="234"/>
+<br/>
+
+<img src="ScreenShots/Anasayfa4.png" width="234"/>
+<br/>
+
+<img src="ScreenShots/Anasayfa5.png" width="234"/>
   
   ### 🔍 Arama Sayfası
   <table>
